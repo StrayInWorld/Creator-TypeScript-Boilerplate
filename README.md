@@ -1,3 +1,7 @@
+# 说明
+这个项目中也包含了很多关于使用 TypeScript 项目的工作流程和高级功能，可供参考。
+原文链接：https://forum.cocos.com/t/typescript-creator-github/42200
+
 # Creator-TypeScript-Boilerplate
 在Cocos Creator中使用TypeScript的示例项目。
 ## 环境搭建  
